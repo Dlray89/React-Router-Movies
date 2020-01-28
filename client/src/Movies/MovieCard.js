@@ -1,7 +1,8 @@
-import React from 'react';
+import React from "react";
+import Movie from "./Movie";
 
 const MovieCard = props => {
-  return;
+  return <div><Movie  /></div>;
 };
 
 export default MovieCard;
